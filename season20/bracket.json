@@ -1,0 +1,531 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 20,
+                "team1Name": "Davenport Cliff Divers",
+                "team2Name": "Pacific Grove Monarchists",
+                "team1Abbr": "DCD",
+                "team2Abbr": "PGM",
+                "patternName": "random",
+                "description": "Game 1, Monterey Bay League Division Series 1",
+                "id": "5b4ae5fb-95fd-4995-91e3-160277ee3bd0",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 20,
+                "team1Name": "Sand City Sidewinders",
+                "team2Name": "Boulder Creek Cardsharps",
+                "team1Abbr": "SCS",
+                "team2Abbr": "BCC",
+                "patternName": "chicago",
+                "description": "Game 1, Monterey Bay League Division Series 2",
+                "id": "85ac43b7-85fa-4532-b993-437358884026",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "team1Name": "Richmond Slicks",
+                "team2Name": "Hayward Pipelines",
+                "team1Abbr": "RS",
+                "team2Abbr": "HP",
+                "patternName": "newyork",
+                "description": "Game 1, San Francisco Bay League Division Series 1",
+                "id": "f42b1097-e0bc-4f2d-bcff-622361d4a466",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "team1Name": "Mountain View Miners",
+                "team2Name": "Berkeley Brutalists",
+                "team1Abbr": "MVM",
+                "team2Abbr": "BBR",
+                "patternName": "dessertplate",
+                "description": "Game 1, San Francisco Bay League Division Series 2",
+                "id": "11d52288-d6a9-4ff3-b4f6-96a65146da49",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 20,
+                "team1Name": "Davenport Cliff Divers",
+                "team2Name": "Pacific Grove Monarchists",
+                "team1Abbr": "DCD",
+                "team2Abbr": "PGM",
+                "patternName": "random",
+                "description": "Game 2, Monterey Bay League Division Series 1",
+                "id": "5acbb3d2-698c-404a-a1d2-8ae2ad602790",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 20,
+                "team1Name": "Sand City Sidewinders",
+                "team2Name": "Boulder Creek Cardsharps",
+                "team1Abbr": "SCS",
+                "team2Abbr": "BCC",
+                "patternName": "stlouis",
+                "description": "Game 2, Monterey Bay League Division Series 2",
+                "id": "d24b8269-191e-41d5-ad8a-0522483d4ffc",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "team1Name": "Richmond Slicks",
+                "team2Name": "Hayward Pipelines",
+                "team1Abbr": "RS",
+                "team2Abbr": "HP",
+                "patternName": "newyork",
+                "description": "Game 2, San Francisco Bay League Division Series 1",
+                "id": "da08fce4-9e64-4f27-8d3c-a932ea4f6e77",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "team1Name": "Mountain View Miners",
+                "team2Name": "Berkeley Brutalists",
+                "team1Abbr": "MVM",
+                "team2Abbr": "BBR",
+                "patternName": "gastank",
+                "description": "Game 2, San Francisco Bay League Division Series 2",
+                "id": "4786942a-1828-4e09-abad-90fd1d1afd07",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 20,
+                "team1Name": "Pacific Grove Monarchists",
+                "team2Name": "Davenport Cliff Divers",
+                "team1Abbr": "PGM",
+                "team2Abbr": "DCD",
+                "patternName": "chicago",
+                "description": "Game 3, Monterey Bay League Division Series 1",
+                "id": "2418705b-a571-40d8-a6ff-5339c293a5a9",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 20,
+                "team1Name": "Boulder Creek Cardsharps",
+                "team2Name": "Sand City Sidewinders",
+                "team1Abbr": "BCC",
+                "team2Abbr": "SCS",
+                "patternName": "evaporation",
+                "description": "Game 3, Monterey Bay League Division Series 2",
+                "id": "064bdfbe-f06c-415e-b612-03d0c865b225",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "team1Name": "Hayward Pipelines",
+                "team2Name": "Richmond Slicks",
+                "team1Abbr": "HP",
+                "team2Abbr": "RS",
+                "patternName": "denaturation",
+                "description": "Game 3, San Francisco Bay League Division Series 1",
+                "id": "5f95f20c-3896-4f22-8803-19800b9f7449",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "team1Name": "Berkeley Brutalists",
+                "team2Name": "Mountain View Miners",
+                "team1Abbr": "BBR",
+                "team2Abbr": "MVM",
+                "patternName": "combs",
+                "description": "Game 3, San Francisco Bay League Division Series 2",
+                "id": "a5c22f4d-efd6-499d-9fda-bbfe704243f6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 20,
+                "team1Name": "Pacific Grove Monarchists",
+                "team2Name": "Davenport Cliff Divers",
+                "team1Abbr": "PGM",
+                "team2Abbr": "DCD",
+                "patternName": "dinnerplate",
+                "description": "Game 4, Monterey Bay League Division Series 1",
+                "id": "bbe7a9fd-300c-4719-9cdf-d51b0b65079a",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 20,
+                "team1Name": "Boulder Creek Cardsharps",
+                "team2Name": "Sand City Sidewinders",
+                "team1Abbr": "BCC",
+                "team2Abbr": "SCS",
+                "patternName": "squarestar",
+                "description": "Game 4, Monterey Bay League Division Series 2",
+                "id": "a10b55de-5560-463a-b4ed-c541aeebf67b",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "team1Name": "Hayward Pipelines",
+                "team2Name": "Richmond Slicks",
+                "team1Abbr": "HP",
+                "team2Abbr": "RS",
+                "patternName": "chicago",
+                "description": "Game 4, San Francisco Bay League Division Series 1",
+                "id": "a9c2e225-14ba-4fde-b977-ecd1d8561d64",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "team1Name": "Berkeley Brutalists",
+                "team2Name": "Mountain View Miners",
+                "team1Abbr": "BBR",
+                "team2Abbr": "MVM",
+                "patternName": "flyingv2",
+                "description": "Game 4, San Francisco Bay League Division Series 2",
+                "id": "96cc9fd2-91a0-4e4b-84f4-1460ca32fceb",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 20,
+                "team1Name": "Davenport Cliff Divers",
+                "team2Name": "Pacific Grove Monarchists",
+                "team1Abbr": "DCD",
+                "team2Abbr": "PGM",
+                "patternName": "chicago",
+                "description": "Game 5, Monterey Bay League Division Series 1",
+                "id": "0c16dae3-a6b7-47a6-9d7c-5d5141fb867b",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 20,
+                "team1Name": "Sand City Sidewinders",
+                "team2Name": "Boulder Creek Cardsharps",
+                "team1Abbr": "SCS",
+                "team2Abbr": "BCC",
+                "patternName": "flyingv2",
+                "description": "Game 5, Monterey Bay League Division Series 2",
+                "id": "9d04131c-0f4b-4ef9-9db6-b4b3eb9b7272",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "team1Name": "Richmond Slicks",
+                "team2Name": "Hayward Pipelines",
+                "team1Abbr": "RS",
+                "team2Abbr": "HP",
+                "patternName": "dessertplate",
+                "description": "Game 5, San Francisco Bay League Division Series 1",
+                "id": "58cffeaa-c67c-4b2d-884d-19a836690d5a",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "team1Name": "Mountain View Miners",
+                "team2Name": "Berkeley Brutalists",
+                "team1Abbr": "MVM",
+                "team2Abbr": "BBR",
+                "patternName": "denaturation",
+                "description": "Game 5, San Francisco Bay League Division Series 2",
+                "id": "a53c944d-af91-4ae9-ae3a-1beab4d25372",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "stlouis",
+                "league": "Monterey Bay League",
+                "season": 20,
+                "description": "Game 1, Monterey Bay League Championship Series",
+                "id": "8de799fa-cc7f-49b8-9d40-1861bf273475",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "rustytank",
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "description": "Game 1, San Francisco Bay League Championship Series",
+                "id": "e0aac013-a6fc-449c-bead-c186b1bc2def",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "squarestar",
+                "league": "Monterey Bay League",
+                "season": 20,
+                "description": "Game 2, Monterey Bay League Championship Series",
+                "id": "5dad248d-c3f0-4c0f-b59e-3670a7b428eb",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "dinnerplate",
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "description": "Game 2, San Francisco Bay League Championship Series",
+                "id": "699fd62c-0aa0-448a-ba05-918d1502d331",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "stlouis",
+                "league": "Monterey Bay League",
+                "season": 20,
+                "description": "Game 3, Monterey Bay League Championship Series",
+                "id": "493ac093-8aeb-41b4-b2d9-5a3af859307c",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "gastank",
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "description": "Game 3, San Francisco Bay League Championship Series",
+                "id": "8734efba-9d2d-4ea2-ae09-3a3e9bda5908",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "stlouis",
+                "league": "Monterey Bay League",
+                "season": 20,
+                "description": "Game 4, Monterey Bay League Championship Series",
+                "id": "5428fddc-0eae-40bd-95c8-dc10e9d561a6",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "gastank",
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "description": "Game 4, San Francisco Bay League Championship Series",
+                "id": "7f304065-a91e-4ec5-838d-fe517256e243",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "evaporation",
+                "league": "Monterey Bay League",
+                "season": 20,
+                "description": "Game 5, Monterey Bay League Championship Series",
+                "id": "d4640b71-a84b-4fee-8172-17de68c2b3c5",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "stlouis",
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "description": "Game 5, San Francisco Bay League Championship Series",
+                "id": "c0aaf9e6-d83c-4ea7-9b98-9dadec0b6ed1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "squarestar",
+                "league": "Monterey Bay League",
+                "season": 20,
+                "description": "Game 6, Monterey Bay League Championship Series",
+                "id": "789cab8b-4d44-4d87-b2ce-e39068ae0658",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "flyingv1",
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "description": "Game 6, San Francisco Bay League Championship Series",
+                "id": "31c3385f-3dc8-4d9c-8124-0d895850089c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "dessertplate",
+                "league": "Monterey Bay League",
+                "season": 20,
+                "description": "Game 7, Monterey Bay League Championship Series",
+                "id": "6e0b93a8-cda3-4a35-b3ed-ba224fad269d",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "ricepudding",
+                "league": "San Francisco Bay League",
+                "season": 20,
+                "description": "Game 7, San Francisco Bay League Championship Series",
+                "id": "8d755543-d3d5-426c-acfa-79dd92c40e44",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "SCS": [
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "dessertplate",
+                "description": "Game 1, Star Cup",
+                "season": 20,
+                "id": "1d094710-6a63-4e7b-96fe-8833b02ba2f4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "gastank",
+                "description": "Game 2, Star Cup",
+                "season": 20,
+                "id": "abbf2ea6-e064-43eb-b009-d9c334f6f7ff",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "evaporation",
+                "description": "Game 3, Star Cup",
+                "season": 20,
+                "id": "75131c6c-f3a8-46a3-aff3-d5968ac06ee0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "denaturation",
+                "description": "Game 4, Star Cup",
+                "season": 20,
+                "id": "1f7e3366-1ccb-45ef-9483-89b0d9ebb209",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "precipitation",
+                "description": "Game 5, Star Cup",
+                "season": 20,
+                "id": "dd89d8fa-226d-491f-8cad-9710b1d614f7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "chicago",
+                "description": "Game 6, Star Cup",
+                "season": 20,
+                "id": "fb60db97-c536-4205-b4ef-1067be95ecca",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "squarestar",
+                "description": "Game 7, Star Cup",
+                "season": 20,
+                "id": "637500fc-05d9-4451-86d5-4abfc9bdc121",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
